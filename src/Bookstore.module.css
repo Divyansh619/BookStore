@@ -1,0 +1,51 @@
+.coverimage {
+  height: 200px;
+  width: 150px;
+}
+.coverimage:hover {
+  transform: scale(1.2);
+}
+
+.infocontainer {
+  text-align: center;
+}
+.covercontainer {
+  text-align: center;
+}
+.infoname {
+  margin-top: 0px;
+  margin-bottom: 2px;
+  color: #122d17;
+}
+.idcontainer {
+  text-align: center;
+}
+.btn {
+  cursor: pointer;
+  width: 60px;
+  border-radius: 5px;
+  color: azure;
+  background-color: black;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.boxcontainer {
+  border: 1px solid black;
+  padding: 2px;
+}
+.btn:hover {
+  color: #ecca00;
+  background-color: #122d17;
+}
+.authorcontainer {
+  color: #4b462d;
+}
+ @media screen and (min-width:1023px){
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+ }
+  

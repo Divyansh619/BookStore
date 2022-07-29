@@ -1,0 +1,23 @@
+.imageshop {
+  height: 260px;
+  width: 250px;
+}
+.imgcontainer {
+  display: flex;
+  justify-content: center;
+}
+.homelog {
+  display: flex;
+
+  justify-content: center;
+  margin-top: 15px;
+}
+.heading{display: flex;
+    justify-content: center;
+    height: 60px;
+}
+.bookshop{
+    text-shadow: 2px 2px #FF9F29;
+    
+}
+ 

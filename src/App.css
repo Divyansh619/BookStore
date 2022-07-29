@@ -1,0 +1,22 @@
+ .linkcontainer{
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+   background-color: #1A4D2E;
+ }
+ .homelink,.loginlink,.signuplink{
+   text-decoration: none;
+   color: #FF9F29;
+  margin-right: 5px;
+ }
+ .logsign{
+  float: right;
+    display: flex;
+    margin-left: 85px;
+ }
+ @media screen and (max-width:1023px) {
+  .linkcontainer{
+   
+  }
+
+ }

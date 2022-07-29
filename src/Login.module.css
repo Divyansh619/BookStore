@@ -1,0 +1,38 @@
+.loginhead {
+  align-items: center;
+  width: 200px;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  font-size: x-large;
+  color: brown;
+  margin-top: 70px;
+}
+.loginbox {
+  width: 200px;
+  margin: auto;
+  text-align: center;
+margin-top: 15px;
+}
+.btn {
+  margin: auto;
+  text-align: center;
+  display: flex;
+    margin-top: 15px;
+}
+.tag {
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+.secinput{
+        margin-top: 10px;
+}
+.errorname{
+  font: 300;
+  color: red;
+}
+ 
+
+@media screen and (min-width: 1023px) {
+}

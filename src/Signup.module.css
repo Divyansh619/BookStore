@@ -1,0 +1,36 @@
+select.country {
+  width: 258px;
+  text-align: center;
+}
+.inputone {
+  text-align: center;
+  margin: 13px;
+}
+.input {
+  width: 250px;
+  text-align: center;
+}
+.signupcontainer {
+  border: 1px solid black;
+  margin: 15px;
+  margin-top: 45px;
+  background-color: bisque;
+box-shadow: 5px 10px #122d17;
+}
+.btnbtn {
+  width: 90px;
+  padding: 3px;
+  border-radius: 5px;
+  color: #ecca00;
+  background-color: #122d17;
+  cursor: pointer;
+}
+.btnbtn:hover {
+  color: azure;
+  background-color: black;
+}
+ 
+  .errorinput{
+    color: red;
+    font-size:small ;
+  }
